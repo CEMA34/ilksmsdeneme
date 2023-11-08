@@ -1,0 +1,114 @@
+a.user-menu-content.js-open-aside h6 {
+    text-align: center;
+    color: white !important;
+}
+
+.col-lg-6 .sol {
+	float: left;
+	margin-top: 0px !important;
+	border-radius: 0px 50px 50px 0px;
+	padding: 25px 31px;
+} 
+
+.highlight {
+    color: #ffcc33;
+}
+
+footer h3{
+	font-size: 20px !important;
+}
+
+.top-bar-contact a, .top-bar-contact, .follow_us span, .login-block a {
+    color: white !important;
+}
+
+@media only screen and (min-width: 727px) {
+  .mobil {
+    display: none !important;
+  }
+}
+
+.btn-mobil {
+	 
+    padding: 10px 25px !important;
+}
+
+.swiper-wrapper {
+	width: 100% !important;
+}
+
+.seo-score .images img:last-of-type {
+    bottom: -15% !important;
+}
+
+
+.info-boxes .info-box--standard {
+    margin-bottom: 30px !important;
+}
+
+span.col-lg-12.col-md-12.col-sm-12.col-xs-12 {
+    text-align: center;
+}
+
+
+.servises-item .servises-item__content .servises-title {
+    font-size: 20px !important;
+}
+
+.servises-item {
+    padding: 25px 25px !important;
+}
+
+
+p.servises-text {
+    font-size: 15px !important;
+}
+
+
+figure.col-md-3.col-lg-3.col-sm-6 img {
+    height: 125px;
+}
+
+.contacts .content {
+    padding-top: 25px !important;
+}
+
+.contacts .contacts-item .content .title {
+    font-size: 17px !important;
+}
+
+/*.footer.js-fixed-footer {
+    
+    position: absolute !important;
+    }*/
+
+    .contacts .contacts-item img { 
+        float: none !important;
+    }
+
+
+   .contacts-item {
+
+        text-align: center !important;
+}
+
+
+.info-box--modern .info-box-content .info-box-title {
+    font-size: 25px !important;
+}
+
+.sorucevap .col-lg-3.col-md-3.col-sm-3.col-xs-12 {
+    text-align: center;
+}
+
+.uye-adim {
+    width: 100% !important;
+}
+
+
+
+@media only screen and (min-width: 720px) {
+form.seo-score-form.input-inline {
+    margin-left: 70px;
+}
+}
